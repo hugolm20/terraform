@@ -5,14 +5,13 @@ Este é um projeto que estou utilizando Terraform e Ansible guiado pelo Curso Al
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Terraform**
-| :label: Tecnologias | Terraform, Ansible, Python (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :label: Tecnologias | Terraform, Ansible, Python
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://www.opensourcerers.org/wp-content/uploads/2020/10/Ansible-and-Terraform-Integration.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto foi realizado com o auxilio do Curso Alura com a trilha de formação DevOps que utiliza o Terraform que, neste caso, foi utilizado para instânciar uma máquina no serviço de núvem AWS. É possível ver toda a infra da máquina no arquivo _main.tf_ .
+
 
