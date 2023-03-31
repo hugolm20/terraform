@@ -50,7 +50,7 @@ Pronto, ativou o projeto no servidor na porta 8080. Para visualizá-lo abra o na
 
 Agora é só começar a desenvolver seu projeto de site com django!
 
-Obs: Caso eu tenha esquecido algum passo, fique a vontade para criar um issue e me avisar! 
+*Obs: Caso eu tenha esquecido algum passo, fique a vontade para criar um issue e me avisar!*
 
 
 
