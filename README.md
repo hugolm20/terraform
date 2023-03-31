@@ -46,7 +46,7 @@ Agora rode no terminal o comando `cd iac` para acessar a pasta e depois:
 
 Pronto, ativou o projeto no servidor na porta 8080. Para visualizá-lo abra o navegador e digite o seu IP:8080. Você verá uma tela parecida com essa:
 
-![django.png](../django.png)
+![django.png](https://github.com/Hugolm20/terraform/blob/main/django.png)
 
 Agora é só começar a desenvolver seu projeto de site com django!
 
