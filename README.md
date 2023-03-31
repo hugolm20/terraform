@@ -36,7 +36,7 @@ Com a máquina criada, agora é possível rodar o Ansible, para isso execute o c
 
 Pronto! Agora está tudo criado! 
 
-Para entrar na sua máquina via terminal utilizando a chave ssh, siga este (link)[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html] para o passo a passo. 
+Para entrar na sua máquina via terminal utilizando a chave ssh, siga este [link](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html) para o passo a passo. 
 
 Uma vez acessada, rode o comando `. ìac/venv/bin/activate` no terminal para ativar o ambiente virtual. 
 
@@ -46,7 +46,7 @@ Agora rode no terminal o comando `cd iac` para acessar a pasta e depois:
 
 Pronto, ativou o projeto no servidor na porta 8080. Para visualizá-lo abra o navegador e digite o seu IP:8080. Você verá uma tela parecida com essa:
 
-![](../django.png)
+![django.png](../django.png)
 
 Agora é só começar a desenvolver seu projeto de site com django!
 
