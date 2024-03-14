@@ -13,7 +13,7 @@ Aqui vamos subir a máquina no console AWS, criar um servidor e deixar tudo pron
 
 ## Detalhes do projeto
 
-O projeto foi realizado com o auxilio do Curso Alura com a trilha de formação DevOps que utiliza o Terraform que, neste caso, foi utilizado para instânciar uma máquina no serviço de núvem AWS. É possível ver toda a infra da máquina no arquivo _main.tf_ . Já o Ansible foi utilizado para fazer todos os comandos necessários, que são encontrados no arquivo _playboook.yml_, após a máquina criada no airflow como:
+O projeto foi realizado com o auxilio do Curso Alura com a trilha de formação DevOps que utiliza o Terraform que, neste caso, foi utilizado para instânciar uma máquina no serviço de núvem AWS. É possível ver toda a infra da máquina no arquivo _main.tf_ . Já o Ansible foi utilizado para fazer todos os comandos necessários, que são encontrados no arquivo _playboook.yml_, após a máquina criada no AWS como:
 1. Instalação do python3 e da máquina virtual
 2. Instalação das bibliotecas do python - Django e DjangoRest
 3. Iniciar o projeto 
